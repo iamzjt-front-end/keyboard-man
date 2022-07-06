@@ -4,10 +4,10 @@ function foo(el) {
 }
 
 let obj = {
-  id: 'awesome',
+  id: 'hahaha',
 }
 
 let nums = [1, 2, 3];
-nums.forEach(foo,obj);
+nums.map(foo, obj);
 
 // you're keyboard man
