@@ -1,23 +1,23 @@
-# 第十二天 - vim12
+# 第十一天 - vim11
 
-掌握 vim-surround
+掌握单文件和多文件之前的跳转
 
-Change existing surround to desired:  c s <existing> <desired>
+单文件:
+  m + 任意小写字母进行标记: mm
 
-Add desired surround around text defined by:  y s <monitor> <desired>
+多文件：
+  m + 任意大写字母进行标记: mM
 
-Delete existing surround:  d s <existing>
+返回:
+  ' + 标记名: 返回标记处所在的行
+  ` + 标记名: 返回标记处所在的行和列 
 
-Surround when in visual modes(surrounds full selection):  S <desired>
 
+跳转到定义: gd
 
+段落跳转: 
+    {: 跳到上一个段落
+    }: 跳到下一个段落
 
-练习:
-
-``` js
-import add from './add';
-
-nihao
-
-const a = `b${name}`;
-```
+ctrl + o: 上一个跳转
+ctrl + i: 下一个跳转
