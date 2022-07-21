@@ -14,4 +14,4 @@
             上下: ctrl + alt + \
   关闭窗口  ctrl + w
             ctrl + k + w
-  窗口切换  shift + 方向键
+  窗口切换  shift + 方向键(改键实现)
