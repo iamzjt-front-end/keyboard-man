@@ -1,9 +1,9 @@
 # 第三天 - vim03
 
-掌握vim的语法: 操作（operator） + 动词（范围）
+掌握 vim 的语法: 操作（operator） + 动词（范围）
 
 d: 删除
-c: 删除并进入insert模式
+c: 删除并进入 insert 模式
 y: 复制
 
 基于单词和子串的移动:
