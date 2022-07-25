@@ -13,8 +13,8 @@
 
 ## 练习
 
-1. one
-2. two
-3. three
-4. four
-10. four
+1) One
+2) Two
+3) Three
+4) Four
+10) Four
