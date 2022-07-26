@@ -1,9 +1,9 @@
-// 练习 
+// 练习
 
 function testFo() {
-  const a2 =   1;
-  const a1   = 2;
+  const aa = 1;
+  const bb = 2;
 
-  const userName = 'cxr';
-  console.log(a1, a2);
+  const userName = "cxr";
+  console.log(aa, bb, userName);
 }
